@@ -2,7 +2,7 @@
 
 ## Projects
 
-# Riff
+- # Riff
 
 - Golang Microserivces
 - SignalR
@@ -10,7 +10,7 @@
 - ASP.NET Gateway
 - MongoDB
 
-# SpeedMath
+- # SpeedMath
 
 - SignalR
 - ASP.NET Monolith
