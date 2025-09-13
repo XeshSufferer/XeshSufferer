@@ -47,6 +47,8 @@
 - ✅ Horizontal scalability with load balancing
 - ✅ Production-ready with monitoring and logging
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev)
+
 ## 🏆 **Achievements**
 
 - 🚀 **Production-ready** microservices architecture
