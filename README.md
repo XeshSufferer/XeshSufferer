@@ -30,3 +30,28 @@
 - **Infrastructure**: Docker containerization, Nginx load balancing
 
 #### 🛠️ **Tech Stack**
+
+- Backend: .NET 9, Go 1.25, ASP.NET Core SignalR
+- Database: MongoDB with connection pooling
+- Message Queue: RabbitMQ with retry mechanisms
+- Frontend: .NET MAUI (Android, iOS, Windows)
+- Infrastructure: Docker, Nginx, SSL/TLS
+- Security: JWT authentication, bcrypt password hashing
+
+
+#### 🚀 **Key Features**
+- ✅ Real-time messaging with SignalR
+- ✅ Cross-platform mobile app (.NET MAUI)
+- ✅ Microservices architecture with event-driven communication
+- ✅ JWT-based authentication and authorization
+- ✅ Horizontal scalability with load balancing
+- ✅ Production-ready with monitoring and logging
+
+## 🏆 **Achievements**
+
+- 🚀 **Production-ready** microservices architecture
+- 🔒 **Security-first** approach with JWT and encryption
+- 📱 **Cross-platform** mobile development
+- 🐳 **Containerized** applications with Docker
+- ⚡ **Real-time** applications with SignalR
+- 🏗️ **Clean Architecture** and SOLID principles
