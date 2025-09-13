@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/RabbitMQ-3.12-orange?style=for-the-badge&logo=rabbitmq" />
   <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev" />
 </div>
 
 ---
