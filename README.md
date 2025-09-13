@@ -12,14 +12,14 @@
 
 ## 🎯 **Featured Projects**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev)
-
 ### 💬 **Riff - Real-time Chat Platform**
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Cross--Platform-green?style=for-the-badge" />
 </div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev)
 
 **Enterprise-grade real-time messaging platform with microservices architecture**
 
