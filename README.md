@@ -12,6 +12,8 @@
 
 ## 🎯 **Featured Projects**
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev)
+
 ### 💬 **Riff - Real-time Chat Platform**
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
@@ -46,8 +48,6 @@
 - ✅ JWT-based authentication and authorization
 - ✅ Horizontal scalability with load balancing
 - ✅ Production-ready with monitoring and logging
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev)
 
 ## 🏆 **Achievements**
 
