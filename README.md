@@ -56,3 +56,11 @@
 - 🐳 **Containerized** applications with Docker
 - ⚡ **Real-time** applications with SignalR
 - 🏗️ **Clean Architecture** and SOLID principles
+
+## 🚀**Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XeshSufferer&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=XeshSufferer&theme=dark" alt="GitHub Streak" />
+</p>
