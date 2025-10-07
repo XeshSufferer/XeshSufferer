@@ -29,7 +29,7 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 
 | Project | Tech | What it does | Stars |
 |---------|------|--------------|-------|
-| **RiffMessenger** | Go, C#, RabbitMQ, SignalR, Mongo, Redis | Micro-service chat with async messaging & real-time delivery | ![GitHub Repo stars](https://img.shields.io/github/stars/XeshSufferer/RiffMessenger?style=social) |
+| **RiffMessenger** | Go, C#, RabbitMQ, SignalR, Mongo, Redis | Micro-service chat with async messaging & real-time delivery | ![GitHub Repo stars](https://img.shields.io/github/stars/XeshSufferer/RiffBackend?style=social) |
 | **LiteBanking** | C#, Postgres, Redis, JWT | Small banking core with balances, caching, rate-limit | ![GitHub Repo stars](https://imgHub.com/XeshSufferer/LiteBanking?style=social) |
 
 ---
