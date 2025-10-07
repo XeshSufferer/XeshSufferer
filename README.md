@@ -1,66 +1,56 @@
-### 🚀 Backend Developer & Full-Stack Engineer
+# 💻 XeshSufferer – Full-Stack Builder
 
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-9.0-purple?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/Go-1.25-blue?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/RabbitMQ-3.12-orange?style=for-the-badge&logo=rabbitmq" />
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Real-time+Applications;Cross-platform+Mobile+Dev" />
-</div>
+15 y.o. solo dev who ships micro-services instead of homework.  
+Go + C# + Docker = ❤️ | Message-driven architecture enjoyer
 
 ---
 
-## 🎯 **Featured Projects**
+## 🔥 Hot right now
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XeshSufferer&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💬 **Riff - Real-time Chat Platform**
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Cross--Platform-green?style=for-the-badge" />
-</div>
+---
 
-**Enterprise-grade real-time messaging platform with microservices architecture**
+## 🧰 Toolbox
 
-#### 🏗️ **Architecture**
-- **Gateway**: ASP.NET Core SignalR Hub
-- **Services**: Go microservices (Accounts, Chats, Messages)
-- **Database**: MongoDB with optimized indexing
-- **Message Queue**: RabbitMQ for inter-service communication
-- **Frontend**: .NET MAUI cross-platform app
-- **Infrastructure**: Docker containerization, Nginx load balancing
+| Area | Stack |
+|------|-------|
+| **Back-End** | Go 1.22, C# 12, .NET 8 minimal-APIs, Gin, gRPC |
+| **Real-time** | SignalR, RabbitMQ, WebSocket |
+| **Data** | MongoDB, PostgreSQL, Redis |
+| **Auth** | JWT (refresh soon™), bcrypt, pepper |
+| **Infra** | Docker, Docker-Compose, GitHub Actions |
+| **Monitoring** | health-checks, structured logs (Zap / Serilog) |
+| **Testing** | testify, xUnit (learning TDD) |
 
-#### 🛠️ **Tech Stack**
+---
 
-- Backend: .NET 9, Go 1.25, ASP.NET Core SignalR
-- Database: MongoDB with connection pooling
-- Message Queue: RabbitMQ with retry mechanisms
-- Frontend: .NET MAUI (Android, iOS, Windows)
-- Infrastructure: Docker, Nginx, SSL/TLS
-- Security: JWT authentication, bcrypt password hashing
+## 🚀 Featured Projects
 
+| Project | Tech | What it does | Stars |
+|---------|------|--------------|-------|
+| **RiffMessenger** | Go, C#, RabbitMQ, SignalR, Mongo, Redis | Micro-service chat with async messaging & real-time delivery | ![GitHub Repo stars](https://img.shields.io/github/stars/XeshSufferer/RiffMessenger?style=social) |
+| **LiteBanking** | C#, Postgres, Redis, JWT | Small banking core with balances, caching, rate-limit | ![GitHub Repo stars](https://imgHub.com/XeshSufferer/LiteBanking?style=social) |
 
-#### 🚀 **Key Features**
-- ✅ Real-time messaging with SignalR
-- ✅ Cross-platform mobile app (.NET MAUI)
-- ✅ Microservices architecture with event-driven communication
-- ✅ JWT-based authentication and authorization
-- ✅ Horizontal scalability with load balancing
-- ✅ Production-ready with monitoring and logging
+---
 
-## 🏆 **Achievements**
+## 📊 GitHub Activity
+![XeshSufferer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XeshSufferer&theme=github-compact&hide_border=true)
 
-- 🚀 **Production-ready** microservices architecture
-- 🔒 **Security-first** approach with JWT and encryption
-- 📱 **Cross-platform** mobile development
-- 🐳 **Containerized** applications with Docker
-- ⚡ **Real-time** applications with SignalR
-- 🏗️ **Clean Architecture** and SOLID principles
+---
 
-## 🚀**Stats**
+## 🎯 2024 Goals
+- [x] Ship micro-service app  
+- [ ] Add mTLS & observability (Prometheus + Grafana)  
+- [ ] Master TDD & property-based testing  
+- [ ] Learn K8s and deploy on VPS instead of `docker-compose up`  
+- [ ] Reach 100 ★ on open-source repo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeshSufferer&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=XeshSufferer&theme=dark" alt="GitHub Streak" />
-</p>
+---
+
+## 🤝 Let's connect
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/XeshSufferer)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XeshSufferer)
+
+---
+https://visitor-badge.laobi.icu/badge?page_id=XeshSufferer.XeshSufferer
