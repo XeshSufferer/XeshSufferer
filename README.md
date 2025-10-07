@@ -1,4 +1,4 @@
-# 💻 XeshSufferer – Full-Stack Builder
+# 💻 XeshSufferer – .NET Backend Developer
 
 15 y.o. solo dev who ships micro-services instead of homework.  
 Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
