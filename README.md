@@ -1,7 +1,7 @@
 # 💻 XeshSufferer – Full-Stack Builder
 
 15 y.o. solo dev who ships micro-services instead of homework.  
-Go + C# + Docker = ❤️ | Message-driven architecture enjoyer
+Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 
 ---
 
