@@ -49,8 +49,8 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 ---
 
 ## 🤝 Let's connect
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/XeshSufferer)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Byxesh)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XeshSufferer)
 
 ---
-https://visitor-badge.laobi.icu/badge?page_id=XeshSufferer.XeshSufferer
+![XeshSufferer's github activity graph](https://visitor-badge.laobi.icu/badge?page_id=XeshSufferer.XeshSufferer)
