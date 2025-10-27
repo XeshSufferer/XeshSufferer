@@ -5,8 +5,8 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XeshSufferer&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XeshSufferer&theme=dark&hide_border=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=dark&hide_border=true)]
 
 ---
 
