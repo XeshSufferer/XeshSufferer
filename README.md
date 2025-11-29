@@ -14,13 +14,13 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 
 | Area | Stack |
 |------|-------|
-| **Back-End** | Go 1.22, C# 12, .NET 8 minimal-APIs, Gin, gRPC |
+| **Back-End** | C# 12, .NET 9 minimal-APIs |
 | **Real-time** | SignalR, RabbitMQ, WebSocket |
 | **Data** | MongoDB, PostgreSQL, Redis |
-| **Auth** | JWT (refresh soon™), bcrypt, pepper |
-| **Infra** | Docker, Docker-Compose, GitHub Actions |
-| **Monitoring** | health-checks, structured logs (Zap / Serilog) |
-| **Testing** | testify, xUnit (learning TDD) |
+| **Auth** | JWT&Refresh, bcrypt |
+| **Infra** | Docker, Docker-Compose, Nginx |
+| **Monitoring** | health-checks |
+| **Testing** | xUnit (learning xD) |
 
 ---
 
@@ -29,7 +29,6 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 | Project | Tech | What it does | Stars |
 |---------|------|--------------|-------|
 | **RiffMessenger** | Go, C#, RabbitMQ, SignalR, Mongo, Redis | Micro-service chat with async messaging & real-time delivery | ![GitHub Repo stars](https://img.shields.io/github/stars/XeshSufferer/RiffBackend?style=social) |
-| **LiteBanking** | C#, Postgres, Redis, JWT | Small banking core with balances, caching, rate-limit | ![GitHub Repo stars](https://imgHub.com/XeshSufferer/LiteBanking?style=social) |
 
 ---
 
@@ -43,7 +42,7 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 - [ ] Add mTLS & observability (Prometheus + Grafana)  
 - [ ] Master TDD & property-based testing  
 - [ ] Learn K8s and deploy on VPS instead of `docker-compose up`  
-- [ ] Reach 100 ★ on open-source repo
+- [ ] Reach 100 ★ on open-source repo :(
 
 ---
 
