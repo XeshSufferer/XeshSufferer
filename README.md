@@ -1,47 +1,49 @@
-# 💻 XeshSufferer – .NET Backend Developer
+# 🚀 XeshSufferer | Systems & Backend Engineer
 
-15 y.o. solo dev who ships micro-services instead of homework.  
-Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=dark&hide_border=true)
+15 y.o. developer obsessed with **high-performance systems**, low-level optimizations, and distributed architecture.  
+Currently deep-diving into **Kubernetes Internals** and **Go Runtime**.
 
 ---
 
-## 🧰 Toolbox
+## 🛠 Tech Stack & Expertise
 
-| Area | Stack |
+| Domain | Tools & Technologies |
 |------|-------|
-| **Back-End** | C# 12, .NET 9 minimal-APIs |
-| **Real-time** | SignalR, RabbitMQ, WebSocket |
-| **Data** | MongoDB, PostgreSQL, Redis |
-| **Auth** | JWT&Refresh, bcrypt |
-| **Infra** | Docker, Docker-Compose, Nginx |
-| **Monitoring** | health-checks |
-| **Testing** | xUnit (learning xD) |
+| **Languages** | **C#** (.NET 9+), **Go** (Systems Programming), SQL |
+| **Cloud Native** | **Kubernetes (Contributor)**, Docker, K8s Probers & Workers |
+| **Architecture** | Microservices, Message-Driven (RabbitMQ), Event-Driven |
+| **High Load** | Redis Caching, Resource Optimization (NPE/Allocations hunting) |
+| **Performance** | `pprof`, `benchstat`, Memory management, Zero-copy patterns |
+| **Observability** | Prometheus, Grafana, Structured Logging (klog, Serilog) |
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Open Source & Contributions
 
-| Project | Tech | What it does | Stars |
-|---------|------|--------------|-------|
-| **RiffMessenger** | Go, C#, RabbitMQ, SignalR, Mongo, Redis | Micro-service chat with async messaging & real-time delivery | ![GitHub Repo stars](https://img.shields.io/github/stars/XeshSufferer/RiffBackend?style=social) |
+### [**Kubernetes (k8s.io/kubernetes)**](https://github.com/kubernetes/kubernetes)
+* **Performance Optimization:** Reduced HTTP probe allocations by **~13%** and cut cumulative memory usage by **4x** in `kubelet/prober`.
+* **Internal Tooling:** Developed custom benchmarks and stress-tests for prober workers to validate memory pressure.
+
+### [**RiffMessenger**](https://github.com/XeshSufferer/RiffBackend)
+* Polyglot microservices (Go + .NET) with real-time delivery via SignalR and async messaging through RabbitMQ.
+* Scalable architecture using MongoDB for persistence and Redis for hot-data caching.
 
 ---
 
-## 📊 GitHub Activity
-![XeshSufferer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XeshSufferer&theme=github-compact&hide_border=true)
+## 📊 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeshSufferer&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XeshSufferer&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🎯 2024 Goals
-- [x] Ship micro-service app  
-- [ ] Add mTLS & observability (Prometheus + Grafana)  
-- [ ] Master TDD & property-based testing  
-- [ ] Learn K8s and deploy on VPS instead of `docker-compose up`  
-- [ ] Reach 100 ★ on open-source repo :(
+## 🎯 2026 Roadmap (Current Goals)
+- [ ] Get first major PR merged into K8s upstream (In Progress 🚀)
+- [ ] Master eBPF for deep network observability
+- [ ] Deep-dive into Raft/Paxos consensus algorithms
+- [ ] Build a custom K8s operator for automated scaling
 
 ---
 
@@ -50,4 +52,6 @@ Main - C# & .NET Ecosystem | Message-driven architecture enjoyer
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/XeshSufferer)
 
 ---
-![XeshSufferer's github activity graph](https://visitor-badge.laobi.icu/badge?page_id=XeshSufferer.XeshSufferer)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=XeshSufferer.XeshSufferer" alt="Visitors" />
+</p>
