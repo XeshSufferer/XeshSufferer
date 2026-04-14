@@ -21,12 +21,8 @@ Currently deep-diving into **Kubernetes Internals** and **Go Runtime**.
 ## 🏆 Open Source & Contributions
 
 ### [**Kubernetes (k8s.io/kubernetes)**](https://github.com/kubernetes/kubernetes)
-* **Performance Optimization:** Reduced HTTP probe allocations by **~13%** and cut cumulative memory usage by **4x** in `kubelet/prober`.
+* **Performance Optimization:** Reduced HTTP probe allocations by **~13%** and cut cumulative memory usage by **17%** into `kubelet/prober`.
 * **Internal Tooling:** Developed custom benchmarks and stress-tests for prober workers to validate memory pressure.
-
-### [**RiffMessenger**](https://github.com/XeshSufferer/RiffBackend)
-* Polyglot microservices (Go + .NET) with real-time delivery via SignalR and async messaging through RabbitMQ.
-* Scalable architecture using MongoDB for persistence and Redis for hot-data caching.
 
 ---
 
